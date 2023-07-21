@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsFormsApp1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="a" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">2.5</Value>
+    </Setting>
+    <Setting Name="b" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">3.5</Value>
+    </Setting>
+    <Setting Name="c" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">4.5</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
